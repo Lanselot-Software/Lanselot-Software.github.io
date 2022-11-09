@@ -1,0 +1,55 @@
+@import url('https://fonts.googleapis.com/css2?family=Comfortaa&family=Dosis:wght@200&family=Roboto+Condensed:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+
+body 
+{
+	background-color: black;
+	color: white;
+	padding: 1em;
+	font-family: 'Roboto Condensed', sans-serif;
+}
+
+#policy
+{
+	display: flex;
+	justify-content: center;
+	margin-bottom: 5%;
+	margin-top: 5%;
+	font-weight: 700;
+	font-style: italic;
+	font-size: 40px;
+}
+
+h2 {
+	margin-top: 2em;
+	margin-left: 1em;
+	font-style: italic;
+}
+
+ul {
+	margin-left: 3em;
+}
+
+p {
+	margin-left: 1.5em;
+	margin-right: 1.5em;
+}
+
+a {
+	text-decoration: underline;
+}
+
+a:link {
+	color: white;
+}
+
+a:visited {
+	color: gray;
+}
+
+a:hover {
+	color: lightgray;
+}
+
+a:active {
+	color: gray;
+}
